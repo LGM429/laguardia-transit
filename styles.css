@@ -167,6 +167,9 @@ figure {
     .container {
         max-width: 600px;
     }
+    .icon-container{
+        max-width: 1000px;
+    }
 
     figure {
         max-width: 700px;
